@@ -13,8 +13,6 @@ license: you can use this for learning or for yourself but not for class or yout
 Version: 2.1.3
 Publisher: AlPHA83/unknown
 join my discord to see more updates on my github and get updates for new codes
-Discord: https://discord.gg/d4JTkym
+<br><br>
 
-
-
-****Thanks for using my code****
+Created By AlPHA with ❤️
